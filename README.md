@@ -133,6 +133,6 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 
 For questions or collaboration, feel free to reach out:
 - **Email**: reinbugnot@gmail.com
-- **LinkedIn**: [Rein Bugnot]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/reinbugnot/))
+- **LinkedIn**: [Rein Bugnot](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/reinbugnot/)
 
 ---
