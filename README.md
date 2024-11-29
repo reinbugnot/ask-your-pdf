@@ -21,7 +21,7 @@ In this implementation, the example document is the *SAFe® for Teams: Establish
 
 ## Technologies Used
 
-- **OpenAI GPT-4o-mini**: Basse LLM.
+- **OpenAI GPT-4o-mini**: Base LLM.
 - **PyPDFLoader**: To extract text from PDF documents.
 - **LangChain**: For document loading, vector store management, and tools integration.
 - **FAISS**: For efficient vector-based document retrieval.
