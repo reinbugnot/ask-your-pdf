@@ -1,6 +1,8 @@
 
 # Retrieval-Augmented Generator (RAG) for SAFe® for Teams Workbook
 
+![](asset/rag-sample.png)
+
 ## Overview
 
 This project demonstrates a **Retrieval-Augmented Generator (RAG)** system designed to answer multiple-choice questions based on the content of an uploaded PDF file. By leveraging state-of-the-art AI techniques, this system allows users to quickly extract and synthesize information from complex documents. 
